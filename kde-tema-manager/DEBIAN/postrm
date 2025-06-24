@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Cria link simbólico para facilitar execução via terminal
+ln -sf /opt/kde-tema/kde-tema.sh /usr/local/bin/kde-tema
+
+# Atualiza banco de dados de ícones e atalhos do sistema
+update-desktop-database >/dev/null 2>&1 || true
+gtk-update-icon-cache /usr/share/icons/hicolor >/dev/null 2>&1 || true
+
+exit 0
+

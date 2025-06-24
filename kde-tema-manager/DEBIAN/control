@@ -1,0 +1,8 @@
+Package: kde-tema-manager
+Version: 1.0.5
+Architecture: all
+Maintainer: Michel R Paes <michelrpaes@gmail.com>
+Description: Utilitário CLI para backup e restauração de temas no KDE Plasma 6
+Homepage: https://github.com/MrPaC6689
+Priority: optional
+Section: utils

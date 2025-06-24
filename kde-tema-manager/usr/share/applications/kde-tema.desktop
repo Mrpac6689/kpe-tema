@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Gerenciador de Tema KDE
+Comment=Backup e restauração de configurações visuais do KDE Plasma 6
+Exec=konsole --noclose -e kde-tema
+Icon=kde-tema
+Terminal=false
+Categories=Utility;Settings;
+StartupNotify=true
+NoDisplay=false
