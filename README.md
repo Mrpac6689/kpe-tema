@@ -1,4 +1,4 @@
-# 🎨 KDE Thema Manager
+# 🎨 KDE Tema Manager (KPE THEME)
 
 **Gerenciador de Tema para KDE Plasma 6**  
 Backup e restauração das configurações visuais do Plasma — preenchendo a lacuna que ainda existe no KDE 6.x!
@@ -9,7 +9,7 @@ Backup e restauração das configurações visuais do Plasma — preenchendo a l
 
 ## 🔧 O que é?
 
-O **KDE Thema** é uma ferramenta em shell script com interface CLI interativa que permite:
+O **KPE Theme** é uma ferramenta em shell script com interface CLI interativa que permite:
 
 - 🔹 Fazer **backup** das configurações visuais do KDE Plasma (cores, painéis, ícones, esquema de cores, etc.)
 - 🔹 Restaurar essas configurações em um clique
